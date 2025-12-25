@@ -74,7 +74,7 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 > “Peyutar” es un verbo y concepto cultural abierto definido en su
 > Manifiesto Fundacional.  
-> Origen: [autor o colectivo], [año].  
+> Origen: Pedro González, 2025.  
 > Licencia: CC BY-SA 4.0.
 
 ---
@@ -92,5 +92,5 @@ no apropiarse sin citar.
 
 ## Fecha y autoría
 
-Creado por: [tu nombre / colectivo]  
+Creado por: Pedro González  
 Año: 2025
