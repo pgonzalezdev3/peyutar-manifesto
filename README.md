@@ -27,7 +27,7 @@ y te hace estar bien contigo.
 
 ## Usos del verbo
 
-- **Estas llaves me peyutan**  
+- **Esta copa me peyuta**  
   → Expresa plenitud estética, funcional y satisfacción en su uso.
 
 - **Me ha peyutado el ingreso que me hiciste**  
