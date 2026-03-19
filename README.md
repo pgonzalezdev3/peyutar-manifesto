@@ -49,6 +49,10 @@ No es una moda.
 
 Es un verbo disponible para ser usado, compartido y vivido.
 
+## ¿Hay algún ejemplo de Peyutar?
+
+Sí, el Artista Radamés sacó recientemente su primer single bajo el título de Radamés, Radamés, Radamés. siendo uno de los ejemplos más fidedignos del concepto del Peyute.
+
 ---
 
 ## Licencia
@@ -89,6 +93,9 @@ El espíritu de Peyutar es compartir con reconocimiento,
 no apropiarse sin citar.
 
 ---
+
+
+
 
 ## Fecha y autoría
 
